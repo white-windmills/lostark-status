@@ -3,14 +3,18 @@ owner: white-windmills # Your GitHub organization or username, where this reposi
 repo: lostark-status # The name of this repository
 
 sites:
-  - name: Google
+  - name: 👶 LostArk中文论坛
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+    icon: https://cdn.jsdelivr.net/gh/white-windmills/lostark-forum@master/img/lostarkFavicon/lostarkFav.png
+  - name: 🚵‍♂️ LostArk地图
+    url: https://lost-ark.top/map/
+    icon: https://cdn.jsdelivr.net/gh/white-windmills/lostark-forum@master/img/lostarkFavicon/lostarkFav.png
+  - name: 🎎 LostArk活动看板
+    url: https://timer.lost-ark.top/zh/alarms
+    icon: https://cdn.jsdelivr.net/gh/white-windmills/lostark-forum@master/img/lostarkFavicon/lostarkFav.png
+  - name: ✨ LostArk好感度看板
+    url: https://lost-ark.top/affinity/
+    icon: https://cdn.jsdelivr.net/gh/white-windmills/lostark-forum@master/img/lostarkFavicon/lostarkFav.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -20,12 +24,12 @@ status-website:
   favicon: https://cdn.jsdelivr.net/gh/white-windmills/lostark-forum@master/img/whiteWindmillsFavicon/favicon.ico
   logoUrl: https://cdn.jsdelivr.net/gh/white-windmills/lostark-forum@master/img/ww-logo.png
   name: 📊 LostArk中文论坛状态页面
-  introTitle: "🏠 您现在所访问的页面是由**Upptime**提供的站点状态侦测网站，用来提供网站uptime和downtime状态，由于[Upttime](https://upptime.js.org/)服务器位于国外，您可能需要打开VPN来查看本页面，以获得最好的体验。"
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "👋 欢迎来到LostArk中文论坛站点侦测页面"
+  introMessage: "🏠 您现在所访问的页面是由**Upptime**提供的站点状态侦测网站，用来提供网站uptime和downtime状态，由于[Upttime](https://upptime.js.org/)服务器位于国外，您可能需要打开代理(vpn)来查看本页面，以获得最好的体验。"
   navbar:
-    - title: 状态页
+    - title: "🏡 状态首页"
       href: /
-    - title: "返回论坛"
+    - title: "⏪ 返回论坛"
       href: https://lost-ark.top/
 
 # Upptime also supports notifications, assigning issues, and more
