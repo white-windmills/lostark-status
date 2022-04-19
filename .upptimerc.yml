@@ -25,7 +25,7 @@ status-website:
   logoUrl: https://cdn.jsdelivr.net/gh/white-windmills/lostark-forum@master/img/ww-logo.png
   name: 📊 LostArk中文论坛状态页面
   introTitle: "👋 欢迎来到LostArk中文论坛站点侦测页面"
-  introMessage: "🏠 您现在所访问的页面是由**Upptime**提供的站点状态侦测网站，用来提供网站uptime和downtime状态，由于[Upttime](https://upptime.js.org/)服务器位于国外，您可能需要打开代理(vpn)来查看本页面，以获得最好的体验。"
+  introMessage: "🏠 您现在所访问的页面是由**Upptime**提供的站点状态侦测网站，用来提供网站uptime和downtime状态，由于[Upttime](https://upptime.js.org/)服务器位于国外，您可能需要打开代理(vpn)来查看本页面，以获得最好的体验。如果本站因为网络原因**不能正常访问**，欢迎访问[GitHub 仓库](https://github.com/white-windmills/lostark-status/)!"
   navbar:
     - title: "🏡 状态首页"
       href: /
