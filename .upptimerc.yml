@@ -19,8 +19,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /lostark-status
+  cname: status.lost-ark.top
+  # baseUrl: /lostark-status
   favicon: https://cdn.jsdelivr.net/gh/white-windmills/lostark-forum@master/img/whiteWindmillsFavicon/favicon.ico
   logoUrl: https://cdn.jsdelivr.net/gh/white-windmills/lostark-forum@master/img/ww-logo.png
   name: 📊 LostArk中文论坛状态页面
