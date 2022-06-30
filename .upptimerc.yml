@@ -34,6 +34,8 @@ status-website:
       href: /
     - title: "⏪ 返回论坛"
       href: https://lost-ark.top/
-
+commitMessages:
+  commitAuthorName: "@andatoshiki"
+  commitAuthorEmail: "a_toshiki@outlook.com"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
