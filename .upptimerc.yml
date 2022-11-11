@@ -36,13 +36,13 @@ status-website:
       href: https://lost-ark.top/
       
 workflowSchedule:
-  graphs: "0 */2 * * *"
-  responseTime: "0 */2 * * *"
-  staticSite: "0 */2 * * *"
-  summary: "0 */2 * * *"
-  updateTemplate: "0 */2 * * *"
-  updates: "0 */2 * * *"
-  uptime: "0 */2 * * *"
+  graphs: "0 */3 * * *"
+  responseTime: "0 */3 * * *"
+  staticSite: "0 */3 * * *"
+  summary: "0 */3 * * *"
+  updateTemplate: "0 */3 * * *"
+  updates: "0 */3 * * *"
+  uptime: "0 */3 * * *"
   
 commitMessages:
   commitAuthorName: "@andatoshiki"
